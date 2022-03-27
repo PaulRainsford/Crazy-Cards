@@ -28,3 +28,5 @@ When multiple cards are selected, the total amount of credit available to the us
 ## Run Tests:
 Run `npm test`, after tests load, type 'a' in terminal to run all test suites.
 
+## Deployed App:
+See deployed app [here](https://totallycrazy.herokuapp.com/)
