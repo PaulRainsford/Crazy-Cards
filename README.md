@@ -21,9 +21,9 @@ When multiple cards are selected, the total amount of credit available to the us
 ```
 
 ## Run Locally:
--Clone this repository
--Run `npm install` to install all the dependencies
--`npm start` to run the app
+- Clone this repository
+- Run `npm install` to install all the dependencies
+- `npm start` to run the app
 
 ## Run Tests:
 Run `npm test`, after tests load, type 'a' in terminal to run all test suites.
